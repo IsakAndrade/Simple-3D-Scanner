@@ -3,10 +3,10 @@ The main goal of this project is to create a simple 3D scanner using the Sharp I
 
 ## Components needed
 To build this system you will need:
-*1x Arduino Uno
-*1x Button
-*1x Resistor
-*1x Potentiometer
-*1x Oled screen
-*2x DC-motors
-*2xH-Bridges
+* 1x Arduino Uno
+* 1x Button
+* 1x Resistor
+* 1x Potentiometer
+* 1x Oled screen
+* 2x DC-motors
+* 2xH-Bridges
